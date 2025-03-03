@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969813641615",
+    "project_id": "test-fmc-47da0",
+    "storage_bucket": "test-fmc-47da0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969813641615:android:7e376e4c9b884d833fe3fa",
+        "android_client_info": {
+          "package_name": "com.example.integracion_firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYamLt5qPdlyB60CeSsPYUYS7bdLNyBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
